@@ -2,7 +2,7 @@ pragma solidity ^0.8.15;
 
 import "../Verifier.sol";
 
-contract Kevin is TurboVerifier {
+contract NFTCinton is TurboVerifier {
 
     event Banana(uint256 x, uint256 y, uint256 result);
 
